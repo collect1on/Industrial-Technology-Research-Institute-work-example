@@ -31,7 +31,7 @@ Due to a **Non-Disclosure Agreement (NDA)**, I am unable to share the project so
 As the project code is under NDA, the following **PowerPoint slides** are provided to illustrate the work process, dataset pipeline, evaluation methodology, and experimental results:
 
 ➡️ [View the Presentation Slides](./Construction of a Traditional Chinese Table Image and QA Dataset.pptx)
-
+➡️ [View the Presentation (PDF)](./Construction of a Traditional Chinese Table Image and QA Dataset.pdf)
 ---
 
 ## 🛠️ Tech Stack
