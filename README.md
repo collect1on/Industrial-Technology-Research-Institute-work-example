@@ -1,4 +1,4 @@
-# Industrial-Technology-Research-Institute-work-example Generative AI Internship Project (Dec 2024 – Apr 2025)
+# Industrial-Technology-Research-Institute Generative AI Internship Project Work Example (Dec 2024 – Apr 2025)
 
 This repository documents my work during my internship at the **Industrial Technology Research Institute (ITRI), Taiwan**, as part of the **Generative AI Large Language Model Project**.
 Due to a **Non-Disclosure Agreement (NDA)**, I am unable to share the project source code. Instead, this repository serves as a record of my contributions and includes presentation slides that summarize my work.
@@ -28,19 +28,11 @@ Due to a **Non-Disclosure Agreement (NDA)**, I am unable to share the project so
 
 ## 📊 Presentation
 
-As the project code is under NDA, the following **PowerPoint slides** are provided to illustrate the work process, dataset pipeline, evaluation methodology, and experimental results:
-
+The following **PowerPoint slides** illustrate the workflow, dataset pipeline, and results related to the **Traditional Chinese Table VQA Dataset**, which is **one component and the first component** of the overall project:
 
 ➡️ [View the Presentation (PDF)](./Construction_of_a_Traditional_Chinese_Table_Image_and_QA_Dataset.pdf)
 ---
 
-## 🛠️ Tech Stack
-
-* **Programming Languages:** Python
-* **Models & APIs:** Qwen2.5-VL, GPT-4 API
-* **Techniques:** Data scraping, JSON parsing, computer vision preprocessing, dataset generation, fine-tuning
-* **Domain:** Table VQA, Table Recognition & Reconstruction, Evaluation Metrics
 
 
 
-要不要我幫你再加一段 **"Future Work"** 或 **"Lessons Learned"** section？ 這樣可以讓你的 GitHub README 看起來更完整、更像研究成果展示。
